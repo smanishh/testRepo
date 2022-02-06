@@ -1,0 +1,2 @@
+This is info file
+for test repo.
